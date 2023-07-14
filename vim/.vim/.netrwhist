@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/u2994744/remove/apa'
+let g:netrw_dirhist_2='/repos/external/latency-tests/app-usb'
+let g:netrw_dirhist_3='/repos/lp-misc/guide/listGDKWorkItems.tmpYQa53T'
+let g:netrw_dirhist_4='/repos/lp-guide/common-mode-contents/common/etc/default'
